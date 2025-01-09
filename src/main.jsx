@@ -13,6 +13,6 @@ import LineSeperator from './LineSeperator.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <LineSeperator />
+    <RecipeList />
   </StrictMode>,
 )
